@@ -10,7 +10,7 @@ public class Main {
     }
 }
 
-//Задача 2
+///Задача 2
 
 public class Main {
     public static void main(String [] args) {
